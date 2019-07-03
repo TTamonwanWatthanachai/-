@@ -27,10 +27,7 @@ def callback():
         sendText(user,'สวัสดีครับบบบ')
     elif (userText == 'เรารู้จักกันไหม') :
         sendText(user,'ม่ายรู้')
-    else :
-        sendText(user,'น้องแทมไม่เข้าใจคำถามค่ะ')
-
-    return '',200
+   return '',200
 
 def sendText(user, text):
   LINE_API = 'https://api.line.me/v2/bot/message/reply'
