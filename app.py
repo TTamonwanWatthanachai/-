@@ -27,6 +27,8 @@ def callback():
         sendText(user,'ความหมายอาเซียน')
     elif (userText == '2') :
         sendText(user,'ประวัติของอาเซียน')
+    elif (userText == '3') :
+        sendText(user,'ผู้ก่อตั้ง')
     return '',200
 
 def sendText(user, text):
