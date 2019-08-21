@@ -29,6 +29,21 @@ def callback():
         sendText(user,'ประวัติของอาเซียน')
     elif (userText == '3') :
         sendText(user,'ผู้ก่อตั้ง')
+    elif (userText == '4') :
+        sendText(user,'คำขวัญอาเซียน')
+    elif (userText == '5') :
+        sendText(user,'สัญลักษณ์ของอาเซียน')
+    elif (userText == '6') :
+        sendText(user,'กฎบัตรอาเซียน')
+    elif (userText == '7') :
+        sendText(user,'ความรู้เกี่ยวกับประเทศในอาเซียน')
+    elif (userText == '8') :
+        sendText(user,'วันสำคัญในอาเซียน')
+    elif (userText == '9') :
+        sendText(user,'เนื้อเพลงประจำอาเซียน')
+    elif (userText == '10') :
+        sendText(user,'ความรู้เพิ่มเติมเกี่ยวกับอาเซียน')
+    
     return '',200
 
 def sendText(user, text):
