@@ -36,7 +36,7 @@ def callback():
     elif (userText == '6') :
         sendText(user,'กฎบัตรอาเซียน')
     elif (userText == '7') :
-        sendText(user,'ความรู้เกี่ยวกับประเทศในอาเซียน')
+        sendText(user,'ความรู้เกี่ยวกับประเทศสมาชิกอาเซียน')
     elif (userText == '8') :
         sendText(user,'วันสำคัญในอาเซียน')
     elif (userText == '9') :
