@@ -40,7 +40,7 @@ def callback():
     elif (userText == '8') :
         sendText(user,'วันสำคัญในอาเซียน')
     elif (userText == '9') :
-        sendText(user,'เนื้อเพลงประจำอาเซียน')
+        sendText(user,'เนื้อเพลงประจำอาเซียน “The ASEAN Way”')
     elif (userText == '10') :
         sendText(user,'ความรู้เพิ่มเติมเกี่ยวกับอาเซียน')
     
