@@ -38,7 +38,7 @@ def callback():
     elif (userText == '7') :
         sendText(user,'วันสำคัญในอาเซียน')
     elif (userText == '8') :
-        sendText(user,'เนื้อเพลงประจำอาเซียน “The ASEAN Way” Raise our flag high, sky high/Embrace the pride in our heart/ASEAN we are bonded as one/Look-in out to the worFor peace, our goal from the very start/And prosperity to last./We dare to dream we care to share./Together for ASEAN/we dare to dream,/we care to share for it’s the way of ASEAN.')
+        sendText(user,'เนื้อเพลงประจำอาเซียน “The ASEAN Way” Raise our flag high, sky high Embrace the pride in our heart ASEAN we are bonded as one Look-in out to the worFor peace, our goal from the very start And prosperity to last./We dare to dream we care to share. Together for ASEAN we dare to dream, we care to share for it’s the way of ASEAN. เนื้อร้องภาษาไทยอย่างเป็นทางการ พลิ้วลู่ลม โบกสะบัด ใต้หมู่ธงปลิวไสว สัญญาณแห่งสัญญาทางใจ วันที่เรามาพบกับ อาเซียนเป็นหนึ่งดังที่ใจเราปรารถนา เราพร้อมเดินหน้าไปทางนั้น หล่อหลอมจิตใจให้เป็นหนึ่งเดียว อาเซียนยึดเหนี่ยวสัมพันธ์ ให้สังคมนี้มีแต่แบ่งปัน เศรษฐกิจสังคมก้าวไกล')
     elif (userText == '9') :
         sendText(user,'ความรู้เพิ่มเติมเกี่ยวกับอาเซียน')
    
