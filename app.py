@@ -41,7 +41,7 @@ def callback():
         sendText(user,'เนื้อเพลงประจำอาเซียน “The ASEAN Way” Raise our flag high, sky high Embrace the pride in our heart ASEAN we are bonded as one Look-in out to the worFor peace, our goal from the very start And prosperity to last.We dare to dream we care to share. Together for ASEAN we dare to dream, we care to share for it’s the way of ASEAN. เนื้อร้องภาษาไทยอย่างเป็นทางการ พลิ้วลู่ลม โบกสะบัด ใต้หมู่ธงปลิวไสว สัญญาณแห่งสัญญาทางใจ วันที่เรามาพบกับ อาเซียนเป็นหนึ่งดังที่ใจเราปรารถนา เราพร้อมเดินหน้าไปทางนั้น หล่อหลอมจิตใจให้เป็นหนึ่งเดียว อาเซียนยึดเหนี่ยวสัมพันธ์ ให้สังคมนี้มีแต่แบ่งปัน เศรษฐกิจสังคมก้าวไกล')
     elif (userText == '9') :       
         sendText(user,'ประเทศสมาชิกในอาเซียนได้แก่ 9.1 เนการาบรูไนดารุสซาลาม 9.2 ราชอาณาจักรกัมพูชา 9.3 สาธารณรัฐอินโดนีเซีย 9.4 สาธารณรัฐประชาธิปไตยประชาชนลาว 9.5 มาเลเซีย 9.6 สาธารณรัฐแห่งสหภาพเมียนมาร์ 9.7 สาธารณรัฐฟิลิปปินส์ 9.8 สาธารณรัฐสิงคโปร์ 9.9 ไทย 9.10 สาธารณรัฐสังคมนิยมเวียดนาม  ')
-    elif (userText == '9.1  ') :   
+    elif (userText == '9.1') :   
         sendText(user,'การปกครอง : สมบูรณาญาสิทธิราช  ประมุข : สมเด็จพระราชาธิบดีฮัจญี ฮัสซานัล โบลเกียห์ มูอิซซัดดิน วัดเดาเลาะห์ เมืองหลวง : บันดาร์เสรีเบกาวัน ภาษาราชการ : ภาษามาเลย์, ภาษาอาหรับ')
 
     elif (userText == '10') :
